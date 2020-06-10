@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1085905410:AAEJQTYuerlaN3lvZ3spF1_k2Sx8H_L14a8', //required
+  TOKEN: '1262179045:AAGvMF_SYhk6TyxxGemDsoCIQQqm7doErCQ', //required
   ARIA_SECRET: 'bhadoo', //change as per needs.
   ARIA_DOWNLOAD_LOCATION: '/app/downloads)', //-leave as it is
   INDEX_DOMAIN: 'https://workers.workers.dev/', // replace with your index domain. use https://github.com/ParveenBhadooOfficial/go-drive
@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
     COMMANDS_USE_BOT_NAME: {
       ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command.
-      NAME: "@IndoUploader_BOT" //Enter your Bot Username here if above is set to true.
+      NAME: "@AnliUploader_Bot" //Enter your Bot Username here if above is set to true.
     }
 });
 
